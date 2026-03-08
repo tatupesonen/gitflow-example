@@ -1,0 +1,2 @@
+# Develop-branch description
+The develop branch is typically used in Git workflows (such as Git Flow) as the main integration branch for ongoing development. It contains the latest completed features that are ready for testing but not yet released to production. Developers merge their feature branches into the develop branch, where changes are combined and validated before eventually being promoted to the main or production branch for a stable release.
